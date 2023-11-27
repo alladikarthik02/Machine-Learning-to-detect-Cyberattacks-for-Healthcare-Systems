@@ -1,4 +1,4 @@
-# MCAD-Machine-Learning-to-detect-Cyberattacks-for-Healthcare-Systems
+#Machine-Learning-to-detect-Cyberattacks-for-Healthcare-Systems
 A healthcare network security solution leveraging Machine Learning-Based Cyberattack Detection (MCAD) for protecting sensitive patient data in Software-Defined Networks (SDNs)
 ## Overview
 A healthcare network security solution leveraging Machine Learning-Based Cyberattack Detection (MCAD) for protecting sensitive patient data in Software-Defined Networks (SDNs). The MCAD (Machine Learning-based Cyber-Attack Detector) project is a cybersecurity solution designed for healthcare systems. It employs machine learning techniques to identify and defend against a variety of cyber threats, including intrusion attempts and unauthorized access.
@@ -8,7 +8,7 @@ Follow these steps to set up and run the MCAD project:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/alladikarthik02/MCAD-Machine-Learning-to-detect-Cyberattacks-for-Healthcare-Systems
+   git clone https://github.com/alladikarthik02/Machine-Learning-to-detect-Cyberattacks-for-Healthcare-Systems
    ```
 
 2. Navigate to the project directory:
